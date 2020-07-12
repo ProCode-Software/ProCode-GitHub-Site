@@ -1,1 +1,8 @@
-
+*{font-family: system-ui;}
+button{
+  outline: none;
+  border: none;
+  color:#fff;
+  font-size: 14px;
+  background: #fcce00;
+}
