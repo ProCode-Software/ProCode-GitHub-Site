@@ -34,4 +34,5 @@ button.pc{
  }
  ```
  The example shows:
- - To do this, use the **!important**
+ - To do this, use **!important** as shown in your CSS.
+ - Keep the styles you need (like the text color kept as white)
